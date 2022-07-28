@@ -1,2 +1,2 @@
 # Cpp-Project
-<h3>This repository contains project done using cpp programming language.</h3>
+<h3>This repository contains project done using CPP programming language.</h3>
